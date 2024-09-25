@@ -51,4 +51,4 @@ Para rodar o projeto basta hospedar os arquivos em uma hospedagem ou baixar os a
 
 ## Outras versões.
 
-Versão react - [Acesssar]()
+Versão react - [Acesssar](https://github.com/jamersonjds/lions-port-react)
