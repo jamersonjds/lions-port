@@ -12,7 +12,7 @@
 
 -   [ScrollReveal.js](https://scrollrevealjs.org/)
 -   [Sass](https://sass-lang.com/documentation)
--   [GoogleIcons](https://fonts.google.com/icons)
+-   [GoogleIcons](https://fonts.google.com/icons)\
     ===============================================-
 
 ## O projeto!
