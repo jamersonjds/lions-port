@@ -12,7 +12,7 @@
 
 -   [ScrollReveal.js](https://scrollrevealjs.org/)
 -   [Sass](https://sass-lang.com/documentation)
--   [GoogleIcons](https://fonts.google.com/icons)\
+-   [GoogleIcons](https://fonts.google.com/icons)
     ===============================================-
 
 ## O projeto!
@@ -25,12 +25,12 @@ Efeitos e menus foram utilizados Javascript, os arquivos encontram-se em assets/
 
 O projeto conta com uma barra de busca que fica fixa no topo, trazendo resultados instantâneo conforme o usuário digita, o projeto também conta com um menu responsivo onde os links de navegação faz com que o site role até onde foi escolhido, na barra de menu também conta com links externos para as redes sociais (Instagram, Facebook).
 
-O projeto conta com uma variação de cores conforme logo e demais itens da empresa, e conta juntamente com uma breve descrição sobre a empresa.\
+O projeto conta com uma variação de cores conforme logo e demais itens da empresa, e conta juntamente com uma breve descrição sobre a empresa.
 ===============================================-
 
 ## Executando
 
-Para rodar o projeto basta hospedar os arquivos em uma hospedagem ou baixar os arquivos e executar o index.html.\
+Para rodar o projeto basta hospedar os arquivos em uma hospedagem ou baixar os arquivos e executar o index.html.
 
 ===============================================-
 
@@ -45,7 +45,7 @@ Para rodar o projeto basta hospedar os arquivos em uma hospedagem ou baixar os a
 "Veiculos",
 "Meio ambiente",
 "Flex",
-"Seguro",\
+"Seguro",
 
 ===============================================\
 
